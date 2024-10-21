@@ -1,5 +1,7 @@
 # Amazon-Prime-Video-Content-Analysis-using-Tableau
 __________________________________________________________________________________________________________________________________________________________________________________________
+# Insights:
+__________________________________________________________________________________________________________________________________________________________________________________________
 - 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰: Analyzed Amazon Prime’s content data, focusing on content distribution, genres, age ratings, and release year trends.
 
 - 𝐊𝐞𝐲 𝐌𝐞𝐭𝐫𝐢𝐜𝐬: Assessed the breakdown of Movies vs TV Shows, top genres, age rating distribution, and content releases over time.
